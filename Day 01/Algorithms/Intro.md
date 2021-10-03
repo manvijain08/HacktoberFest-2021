@@ -1,1 +1,1 @@
-Contribute by writing algorithms in whichever Programming Language you want.
+Contribute by composing algorithms in whichever Programming Language you need.
